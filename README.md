@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/GemaRJ/GemaRJ/blob/main/Imagen%20de%20perfil.png?raw=true" alt="Banner personalizado">
+</p>
+
+
 ## 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
 Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el desarrollo web y disfruto aplicando lo aprendido en proyectos prácticos.
