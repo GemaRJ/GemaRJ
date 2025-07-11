@@ -9,7 +9,7 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 - 🎓 Estudio en la Universidad Europea de Madrid.
 - 💡 Interesada en el desarrollo de aplicaciones web modernas.
 - 🛠️ Tecnologías: Java, C#, HTML5, CSS3, JavaScript, PHP, MySQL.
-- 🧰 Herramientas: Visual Studio Code, IntelliJ IDEA, Git, GitHub, XAMPP, DBeaver, VirtualBox, Cisco Packet Tracer.
+- 🧰 Herramientas: Visual Studio Code, IntelliJ IDEA, Git, GitHub, XAMPP, DBeaver, VirtualBox, Cisco Packet Tracer, VisualBox
 - 🌱 Siempre con ganas de aprender y mejorar.
 
 ---
