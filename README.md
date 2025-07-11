@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/GemaRJ/GemaRJ/blob/main/Imagen%20de%20perfil.png?raw=true" alt="Banner personalizado">
+  <img src="https://github.com/GemaRJ/GemaRJ/blob/main/Imagen%20Perfil.png" alt="Banner de Gema Rodríguez Jorge">
 </p>
-
 
 ## 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
