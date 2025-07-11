@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GemaRJ/GemaRJ/blob/main/Imagen%20Perfil.png?raw=true" alt="Estándarte de Gema Rodríguez Jorge">
+  <img src="https://github.com/GemaRJ/GemaRJ/blob/main/banner-gema.png?raw=true" alt="Estándarte de Gema Rodríguez Jorge">
 </p>
 ## 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
