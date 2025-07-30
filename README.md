@@ -13,7 +13,7 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 - 🎓 Estudio en la Universidad Europea de Madrid.  
 - 💡 Interesada en el desarrollo de aplicaciones web modernas.  
 - 🛠️ Tecnologías: Java, C#, HTML5, CSS3, JavaScript, PHP, MySQL.  
-- 🧰 Herramientas: Visual Studio Code, IntelliJ IDEA, Git, GitHub, XAMPP, DBeaver, VirtualBox, Cisco Packet Tracer, VisualBox.  
+- 🧰 Herramientas: Visual Studio Code, IntelliJ IDEA, Git, GitHub, XAMPP, DBeaver, VirtualBox, Cisco Packet Tracer.
 - 🌱 Siempre con ganas de aprender y mejorar.
 
 ---
@@ -32,13 +32,18 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 
 ---
 
-### 📂 Repositorios destacados
+📂 Repositorios destacados:
+🔹 GemaRJ/Programacion-con-Java
+Ejercicios DAW de programación en Java: estructuras de control, clases, métodos, POO, etc.
 
-- 🔹 [Fundamentos de Programación en C#](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp): Prácticas iniciales de lógica, variables, estructuras y más.  
-- 🔹 [Programación con Java](https://github.com/GemaRJ/Programación-con-Java): Ejercicios DAW relacionados con estructuras de control, clases, métodos y objetos.  
-- 🔹 [Lenguaje de Marcas con HTML/CSS/JS](https://github.com/GemaRJ/Lenguaje-de-Marcas-con-HTML-CSS-JAVASCRIPT-): Trabajos con HTML, CSS, XML, y fundamentos del diseño web.
+🔹 GemaRJ/Fundamentos-de-Programacion-Csharp
+Prácticas básicas en C#: lógica, variables, estructuras, bucles y primeros programas.
 
----
+🔹 GemaRJ/Lenguaje-de-Marcas-con-HTML-CSS-JAVASCRIPT-
+Proyectos con HTML, CSS, JavaScript, XML y fundamentos del diseño web y accesibilidad.
+
+🔹 GemaRJ/Python
+En proyecto...
 
 ### 📬 Contacto
 
