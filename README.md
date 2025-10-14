@@ -46,17 +46,32 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 
 ### 📂 Repositorios destacados:
 
-🔹 **[Programación con Java](https://github.com/GemaRJ/Programacion-con-Java)**  
-Ejercicios DAW de programación en Java: estructuras de control, clases, métodos, POO, etc.
+🔹 **[Python](https://github.com/GemaRJ/Python)**  
+Próximamente, proyectos y ejercicios en Python y Django.
 
 🔹 **[Fundamentos de Programación C#](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)**  
 Prácticas básicas en C#: lógica, variables, estructuras, bucles y primeros programas.
 
-🔹 **[Lenguaje de Marcas con HTML, CSS y JavaScript](https://github.com/GemaRJ/Lenguaje-de-Marcas-con-HTML-CSS-JAVASCRIPT-)**  
+🔹 **[GemaRJ](https://github.com/GemaRJ/GemaRJ)**  
+Repositorio personal, posiblemente con proyectos variados o pruebas.
+
+🔹 **[Programación con Java](https://github.com/GemaRJ/Programacion-con-Java)**  
+Ejercicios DAW de programación en Java: estructuras de control, clases, métodos, POO, etc.
+
+🔹 **[Lenguaje de Marcas](https://github.com/GemaRJ/Lenguaje-de-marcas)**  
 Proyectos con HTML, CSS, JavaScript, XML y fundamentos del diseño web y accesibilidad.
 
-🔹 **[Python y Django](https://github.com/GemaRJ/Python)**  
-Próximamente, proyectos y ejercicios en Python y Django.
+🔹 **[blackjack](https://github.com/GemaRJ/blackjack)**  
+Proyecto de juego Blackjack, desarrollo de lógica y experiencia de usuario.
+
+🔹 **[JavaScript](https://github.com/GemaRJ/JavaScript)**  
+Ejercicios y prácticas en JavaScript puro.
+
+🔹 **[PHP](https://github.com/GemaRJ/PHP)**  
+Prácticas y proyectos con PHP.
+
+🔹 **[TrabajoPresencialDaw/blackjack](https://github.com/TrabajoPresencialDaw/blackjack)**  
+Proyecto de Blackjack hecho en la práctica presencial de DAW.
 
 ---
 
