@@ -46,13 +46,11 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 
 ### 📂 Repositorios destacados:
 
-🔹 **[Interfaces de diseño](https://github.com/GemaRJ/Interfaces-de-diseño)** Diseño de interfaces (Repositorio de la asignatura Lenguaje de Marcas).
+🔹 **[Interfaces de diseño](https://github.com/GemaRJ/Interfaces-de-diseño)** Diseño de interfaces. Continuación de la asignatura Lenguaje de Marcas.
 
 🔹 **[Python](https://github.com/GemaRJ/Python)** Próximamente, proyectos y ejercicios en Python y Django.
 
 🔹 **[Fundamentos de Programación C#](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)** Prácticas básicas en C#: lógica, variables, estructuras, bucles y primeros programas.
-
-🔹 **[GemaRJ](https://github.com/GemaRJ/GemaRJ)** Repositorio personal, posiblemente con proyectos variados o pruebas.
 
 🔹 **[Programación con Java](https://github.com/GemaRJ/Programacion-con-Java)** Ejercicios DAW de programación en Java: estructuras de control, clases, métodos, POO, etc.
 
