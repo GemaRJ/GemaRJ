@@ -37,22 +37,25 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 🔹 **[Fundamentos-de-Programacion-Csharp](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)**  
 Prácticas básicas en C#: lógica, variables, estructuras, bucles y primeros programas.
 
-🔹 **[JAVA](https://github.com/GemaRJ/Programacion-con-Java)**  
+🔹 **[GemaRJ](https://github.com/GemaRJ/GemaRJ)**  
+Repositorio principal de perfil y proyectos varios.
+
+🔹 **[JAVA](https://github.com/GemaRJ/JAVA)**  
 Ejercicios DAW de programación en Java: estructuras de control, clases, métodos, POO, etc.
 
 🔹 **[JavaScript](https://github.com/GemaRJ/JavaScript)**  
 Ejercicios y prácticas en JavaScript puro.
 
-🔹 **[Interfaces de diseño](https://github.com/GemaRJ/Interfaces-de-diseño)**  
+🔹 **[Diseno_Interfaces](https://github.com/GemaRJ/Diseno_Interfaces)**  
 Diseño de interfaces. Continuación de la asignatura Lenguaje de Marcas.
 
 🔹 **[PHP](https://github.com/GemaRJ/PHP)**  
 Prácticas y proyectos con PHP.
 
-🔹 **[Pitón GemaRJ](https://github.com/GemaRJ/Python)**  
-Próximamente, proyectos y ejercicios en Python y Django.
+🔹 **[Python](https://github.com/GemaRJ/Python)**  
+Proyectos y ejercicios en Python y Django.
 
-🔹 **[Lenguaje de marcas](https://github.com/GemaRJ/Lenguaje-de-marcas)**  
+🔹 **[Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)**  
 Proyectos con HTML, CSS, JavaScript, XML y fundamentos del diseño web y accesibilidad.
 
 ---
