@@ -16,6 +16,7 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 - ⚡ He trabajado en proyectos académicos usando frameworks como Django, Angular, React, Vue y Laravel.  
 - 🧰 Uso herramientas como Visual Studio Code, IntelliJ IDEA, Git, GitHub, XAMPP, DBeaver, VirtualBox y Cisco Packet Tracer en prácticas y proyectos del ciclo.  
 - 🌱 Siempre con ganas de aprender y mejorar mis habilidades en desarrollo web.
+- 🎯 Mi objetivo es continuar mi formación académica cursando el **Grado en Ingeniería Informática**.
 
 ---
 
