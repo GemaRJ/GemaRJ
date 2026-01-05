@@ -12,9 +12,9 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 
 - 🎓 Estudio en la Universidad Europea de Madrid y en el ciclo DAW.  
 - 💡 Me interesa aprender y experimentar con tecnologías web y frameworks actuales.  
-- 🛠️ Estoy familiarizándome con lenguajes como Java, C#, HTML5, CSS3, JavaScript, PHP y Python.  
+- 🛠️ Estoy familiarizándome con lenguajes como Java, C#, HTML5, CSS3, JavaScript, PHP, Python y MySQL.  
 - ⚡ He trabajado en proyectos académicos usando frameworks como Django, Angular, React, Vue y Laravel.  
-- 🧰 Uso herramientas como Visual Studio Code, IntelliJ IDEA, Git, GitHub, XAMPP, DBeaver, VirtualBox y Cisco Packet Tracer en prácticas y proyectos del ciclo.  
+- 🧰 Uso herramientas como Visual Studio Code, IntelliJ IDEA, Git, GitHub, XAMPP, phpMyAdmin, MyDBeaver, VirtualBox y Cisco Packet Tracer en prácticas y proyectos del ciclo.  
 - 🌱 Siempre con ganas de aprender y mejorar mis habilidades en desarrollo web.
 - 🎯 Mi objetivo es continuar mi formación académica cursando el **Grado en Ingeniería Informática**.
 
