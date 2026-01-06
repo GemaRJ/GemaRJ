@@ -51,8 +51,40 @@ Durante el ciclo y otros cursos complementarios, he obtenido los siguientes cert
 
 ---
 
+### 📂 Repositorios destacados
+
+🔹 **[Fundamentos-de-Programacion-Csharp](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)**  
+Prácticas académicas en C#: lógica, variables, estructuras, bucles y primeros programas.
+
+🔹 **[GemaRJ](https://github.com/GemaRJ/GemaRJ)**  
+Repositorio principal con proyectos del ciclo y ejercicios personales.
+
+🔹 **[JAVA](https://github.com/GemaRJ/JAVA)**  
+Ejercicios de Java en el ciclo: estructuras de control, clases, métodos, POO.
+
+🔹 **[JavaScript](https://github.com/GemaRJ/JavaScript)**  
+Prácticas y ejercicios en JavaScript puro.
+
+🔹 **[Diseno_Interfaces](https://github.com/GemaRJ/Diseno_Interfaces)**  
+Proyectos de diseño de interfaces y Lenguaje de Marcas.
+
+🔹 **[PHP](https://github.com/GemaRJ/PHP)**  
+Proyectos y prácticas en PHP durante el ciclo.
+
+🔹 **[Python](https://github.com/GemaRJ/Python)**  
+Ejercicios y proyectos en Python y Django como parte de mi aprendizaje.
+
+🔹 **[Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)**  
+Proyectos con HTML, CSS, JavaScript y XML para mejorar mis habilidades de diseño web.
+
+---
+
 ### 📬 Contacto
 
 - 📧 Correo: [gema.rj87@gmail.com](mailto:gema.rj87@gmail.com)  
 - 💼 LinkedIn: [https://www.linkedin.com/in/gema-rj](https://www.linkedin.com/in/gema-rj)  
 - 🐙 GitHub: [https://github.com/GemaRJ](https://github.com/GemaRJ)
+
+---
+
+> ✨ Gracias por visitar mi perfil. Aquí comparto lo que estoy aprendiendo y los proyectos en los que trabajo durante mis estudios. ✨
