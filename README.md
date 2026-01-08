@@ -4,20 +4,19 @@
 
 ## 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
-Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el desarrollo web y disfruto aplicando lo aprendido en proyectos y prácticas del ciclo.
+Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**. En este perfil comparto proyectos, prácticas y ejercicios realizados durante mi formación académica.
 
-🎯 Mi objetivo es continuar mis estudios en el **Grado en Ingeniería Informática**.
+🎯 Mi objetivo es **continuar mis estudios en el Grado en Ingeniería Informática**.
 
 ---
 
 ### 👩‍💻 Sobre mí
 
-- Estudio en la Universidad Europea de Madrid y en el ciclo DAW.  
-- Interesada en aprender y experimentar con tecnologías web y frameworks actuales.  
-- Familiarizada con lenguajes como Java, C#, PHP, Python, JavaScript, HTML5, CSS3 y MySQL.  
-- Estoy trabajando en proyectos académicos usando frameworks como Angular, React, Vue, Laravel y Django.  
-- Uso herramientas como Visual Studio Code, IntelliJ IDEA, Eclipse, NetBeans, XAMPP, phpMyAdmin, DBeaver, VirtualBox y Cisco Packet Tracer.  
-- Siempre con ganas de aprender y mejorar mis habilidades en desarrollo web.
+- Estudiante del ciclo DAW en la Universidad Europea de Madrid.  
+- Interesada en el aprendizaje progresivo del desarrollo web y de aplicaciones.  
+- Conocimientos adquiridos a través de asignaturas prácticas y proyectos académicos.  
+- Trabajo con distintos lenguajes, frameworks y herramientas en un **entorno formativo**, no profesional.  
+- En constante proceso de aprendizaje y mejora.
 
 ---
 
@@ -33,6 +32,7 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 **Lenguajes de marcado y estilos**  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)  
+[![Flexbox](https://img.shields.io/badge/CSS%20Flexbox-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 **Frameworks y entornos (en aprendizaje)**  
 [![Angular](https://img.shields.io/badge/Angular-Aprendizaje-DD0031?logo=angular&logoColor=white)](https://angular.io/)  
@@ -58,7 +58,7 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
 
-**Testing**  
+**Testing (nivel académico)**  
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](https://www.selenium.dev/)  
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)](https://junit.org/)  
 
@@ -71,37 +71,28 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 [![ERD](https://img.shields.io/badge/ERD-007396?logo=draw.io&logoColor=white)](https://www.diagrams.net/)  
 [![Diagramas de flujo](https://img.shields.io/badge/DiagramasDeFlujo-007396?logo=draw.io&logoColor=white)](https://www.diagrams.net/)  
 
-**Fundamentos web**  
-[![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)](https://httpd.apache.org/)  
-[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)  
-[![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-0052CC?logo=web&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTTP)  
-
-**Análisis de datos y reporting**  
-[![Google Sheets](https://img.shields.io/badge/GoogleSheets-0F9D58?logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)  
-[![Google Looker Studio](https://img.shields.io/badge/LookerStudio-00ACC1?logo=google&logoColor=white)](https://lookerstudio.google.com/)  
-
 ---
 
 ### 📜 Certificados académicos (abril 2025)
 
-- [Agile y Scrum | Advanced](https://api.eu.badgr.io/public/assertions/3U0W6fa2T2G9bbzoUSuHLw) — Advanced  
-- [Inteligencia Artificial | Intermediate](https://api.eu.badgr.io/public/assertions/fYZrU0FcRGeqHgdIGSdBqw) — Intermediate  
-- [Project Portfolio Management | Advanced](https://api.eu.badgr.io/public/assertions/ECwbK40fR42Mxh93xKVEFg) — Advanced  
+- [Agile y Scrum | Advanced](https://api.eu.badgr.io/public/assertions/3U0W6fa2T2G9bbzoUSuHLw)  
+- [Inteligencia Artificial | Intermediate](https://api.eu.badgr.io/public/assertions/fYZrU0FcRGeqHgdIGSdBqw)  
+- [Project Portfolio Management | Advanced](https://api.eu.badgr.io/public/assertions/ECwbK40fR42Mxh93xKVEFg)  
 
-> Reflejan los conocimientos que estoy desarrollando durante mis estudios y prácticas académicas.
+> Certificaciones obtenidas en el marco de mi formación académica.
 
 ---
 
 ### 📂 Repositorios destacados
 
 🔹 **[Fundamentos-de-Programacion-Csharp](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)** — Prácticas académicas en C#.  
-🔹 **[GemaRJ](https://github.com/GemaRJ/GemaRJ)** — Repositorio principal con proyectos del ciclo y ejercicios personales.  
-🔹 **[JAVA](https://github.com/GemaRJ/JAVA)** — Ejercicios de Java: estructuras de control, clases, métodos, POO.  
-🔹 **[JavaScript](https://github.com/GemaRJ/JavaScript)** — Prácticas y ejercicios en JavaScript puro.  
-🔹 **[Diseno_Interfaces](https://github.com/GemaRJ/Diseno_Interfaces)** — Proyectos de diseño de interfaces y Lenguaje de Marcas.  
-🔹 **[PHP](https://github.com/GemaRJ/PHP)** — Proyectos y prácticas en PHP durante el ciclo.  
+🔹 **[GemaRJ](https://github.com/GemaRJ/GemaRJ)** — Repositorio principal del perfil.  
+🔹 **[JAVA](https://github.com/GemaRJ/JAVA)** — Ejercicios académicos de Java.  
+🔹 **[JavaScript](https://github.com/GemaRJ/JavaScript)** — Prácticas de JavaScript.  
+🔹 **[Diseno_Interfaces](https://github.com/GemaRJ/Diseno_Interfaces)** — Proyectos de diseño de interfaces.  
+🔹 **[PHP](https://github.com/GemaRJ/PHP)** — Prácticas en PHP del ciclo DAW.  
 🔹 **[Python](https://github.com/GemaRJ/Python)** — Ejercicios y proyectos en Python y Django.  
-🔹 **[Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)** — Proyectos con HTML, CSS, JavaScript y XML.
+🔹 **[Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)** — HTML, CSS, JavaScript y XML.
 
 ---
 
@@ -111,4 +102,4 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gema-rj)  
 - 🐙 [GitHub](https://github.com/GemaRJ)
 
-> ✨ Gracias por visitar mi perfil. Aquí comparto lo que estoy aprendiendo y los proyectos en los que trabajo durante mis estudios. ✨
+> ✨ Este perfil refleja mi proceso de aprendizaje y evolución durante mis estudios en desarrollo de aplicaciones web. ✨
