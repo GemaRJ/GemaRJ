@@ -32,7 +32,8 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 **Lenguajes de marcado y estilos**  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)  
-[![Flexbox](https://img.shields.io/badge/CSS%20Flexbox-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout)
+[![Flexbox](https://img.shields.io/badge/CSS%20Flexbox-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout)  
+[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?logo=google&logoColor=white)](https://fonts.google.com/)
 
 **Frameworks y entornos (en aprendizaje)**  
 [![Angular](https://img.shields.io/badge/Angular-Aprendizaje-DD0031?logo=angular&logoColor=white)](https://angular.io/)  
