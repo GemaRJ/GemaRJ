@@ -96,7 +96,7 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 🔹 **[PHP](https://github.com/GemaRJ/PHP)** — Prácticas en PHP del ciclo DAW.  
 🔹 **[Python](https://github.com/GemaRJ/Python)** — Ejercicios y proyectos en Python y Django.  
 🔹 **[Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)** — HTML, CSS, JavaScript y XML.  
-🔹 **[Interfaces de diseño](https://github.com/GemaRJ/Interfaces-de-diseno)** — Diseño de interfaces (UI / UX).  
+🔹 **[Interfaces de diseño](https://github.com/GemaRJ/Diseno_Interfaces)** — Diseño de interfaces (UI / UX).  
 
 
 ---
