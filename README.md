@@ -84,30 +84,20 @@ Soy **Gema Rodríguez Jorge**, estudiante de **2º curso del Ciclo Formativo de 
 
 ---
 
-📂 Repositorios destacados
+### 📂 Repositorios destacados
 
-🔹 Fundamentos-de-Programacion-Csharp
- — Prácticas académicas en C#.
-🔹 GemaRJ
- — Repositorio principal del perfil.
-🔹 JAVA
- — Ejercicios académicos de Java.
-🔹 JavaScript
- — Prácticas de JavaScript.
-🔹 Angular
- — Proyectos realizados en Angular (TypeScript / SPA).
-🔹 Vue
- — Proyectos realizados en Vue.js (JavaScript / SPA).
-🔹 React
- — Proyectos realizados en React (JavaScript / SPA).
-🔹 Diseno_Interfaces
- — Proyectos de diseño de interfaces.
-🔹 PHP
- — Prácticas en PHP del ciclo DAW.
-🔹 Python
- — Ejercicios y proyectos en Python y Django.
-🔹 Lenguaje-de-Marcas
- — HTML, CSS, JavaScript y XML.
+🔹 **[Fundamentos-de-Programacion-Csharp](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)** — Prácticas académicas en C#.  
+🔹 **[JAVA](https://github.com/GemaRJ/JAVA)** — Ejercicios académicos de Java.  
+🔹 **[JavaScript](https://github.com/GemaRJ/JavaScript)** — Prácticas de JavaScript.  
+🔹 **[Angular](https://github.com/GemaRJ/Angular)** — Proyectos realizados en Angular (TypeScript / SPA).  
+🔹 **[React](https://github.com/GemaRJ/React)** — Proyectos realizados en React (JavaScript / SPA).  
+🔹 **[Vue](https://github.com/GemaRJ/Vue)** — Proyectos realizados en Vue.js (JavaScript / SPA).  
+🔹 **[Diseno_Interfaces](https://github.com/GemaRJ/Diseno_Interfaces)** — Proyectos de diseño de interfaces.  
+🔹 **[PHP](https://github.com/GemaRJ/PHP)** — Prácticas en PHP del ciclo DAW.  
+🔹 **[Python](https://github.com/GemaRJ/Python)** — Ejercicios y proyectos en Python y Django.  
+🔹 **[Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)** — HTML, CSS, JavaScript y XML.  
+🔹 **[Interfaces de diseño](https://github.com/GemaRJ/Interfaces-de-diseno)** — Diseño de interfaces (UI / UX).  
+
 
 ---
 
