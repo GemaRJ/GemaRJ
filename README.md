@@ -89,17 +89,18 @@ Programación orientada a objetos y control estructurado en entorno .NET.
 🔗 [Ver proyecto](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp/tree/main/Proyectos%20Personales)
 
 ---
-
 ## 📜 Certificaciones académicas (abril 2025)
 
 - 🎖️ **Agile y Scrum | Advanced**  
-  🔗 https://api.eu.badgr.io/public/assertions/fYZrU0FcRGeqHgdIGSdBqw
+  🔗 [Ver insignia](https://badges.parchment.eu/public/assertions/3U0W6fa2T2G9bbzoUSuHLw)
 
 - 🎖️ **Inteligencia Artificial | Intermediate**  
-  🔗 https://api.eu.badgr.io/public/assertions/3U0W6fa2T2G9bbzoUSuHLw 
+  🔗 [Ver insignia](https://badges.parchment.eu/public/assertions/fYZrU0FcRGeqHgdIGSdBqw)
 
 - 🎖️ **Project Portfolio Management | Advanced**  
-  🔗 https://api.eu.badgr.io/public/assertions/ECwbK40fR42Mxh93xKVEFg
+  🔗 [Ver insignia](https://badges.parchment.eu/public/assertions/ECwbK40fR42Mxh93xKVEFg)
+
+> Certificaciones obtenidas en el marco de mi formación académica. Cada enlace abre la insignia verificada en Parchment Digital Badges.
 
 ---
 
