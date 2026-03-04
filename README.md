@@ -6,9 +6,9 @@
 
 Soy **Gema Rodríguez Jorge**, desarrolladora en formación especializada en **Desarrollo de Aplicaciones Web (DAW)**.
 
-Aquí encontrarás proyectos académicos y personales donde aplico **frontend moderno, backend con conexión a base de datos, lógica de programación y orientación a objetos**.
+Aquí encontrarás proyectos académicos y personales donde aplico **frontend moderno, backend con conexión a base de datos, arquitectura cliente-servidor y programación orientada a objetos**.
 
-🎯 Objetivo: continuar mi formación en el **Grado en Ingeniería Informática** y seguir creciendo como desarrolladora Fullstack.
+🎯 Objetivo: continuar mi formación en el **Grado en Ingeniería Informática** y seguir creciendo como desarrolladora **Fullstack**.
 
 > 💡 Mi filosofía: **a problemas, soluciones**. Cada proyecto nace como una forma práctica de aplicar, reforzar y optimizar conocimientos.
 
@@ -17,10 +17,31 @@ Aquí encontrarás proyectos académicos y personales donde aplico **frontend mo
 ## 👩‍💻 Perfil técnico
 
 - Desarrollo de aplicaciones web completas (frontend + backend).
-- Implementación de bases de datos y conexión con servidor.
+- Implementación de APIs REST.
+- Conexión y gestión de bases de datos relacionales.
 - Programación orientada a objetos.
 - Manejo de ficheros y control de excepciones.
-- Creación de proyectos personales funcionales más allá del temario.
+- Evolución de proyectos académicos hacia estructuras más profesionales.
+
+---
+
+# 🚀 Portfolio Fullstack (Repositorio Principal Destacado)
+
+## ⭐ [portfolio-fullstack-projects](https://github.com/GemaRJ/portfolio-fullstack-projects)
+
+Repositorio dedicado exclusivamente a proyectos con **arquitectura profesional**, simulando entornos reales de desarrollo.
+
+Incluye aplicaciones desarrolladas con:
+
+- Angular + TypeScript
+- Node.js + Express
+- MySQL
+- Separación frontend / backend
+- Autenticación
+- CRUD completos
+- Organización modular
+
+Este repositorio representa mi evolución hacia un perfil **junior con enfoque profesional**.
 
 ---
 
@@ -47,14 +68,6 @@ Aquí encontrarás proyectos académicos y personales donde aplico **frontend mo
 
 ---
 
-### Frontend y diseño
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
-[![SweetAlert](https://img.shields.io/badge/SweetAlert-FF6F61?logo=javascript&logoColor=white)](https://sweetalert.js.org/)  
-
----
-
 ### Bases de datos
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
 [![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-0076A3?logo=php&logoColor=white)](https://www.phpmyadmin.net/)  
@@ -62,58 +75,69 @@ Aquí encontrarás proyectos académicos y personales donde aplico **frontend mo
 
 ---
 
-## 🌟 Proyectos destacados
+## 🌟 Proyectos aplicados (repositorios por lenguaje)
 
-Aquí algunos de los proyectos donde aplico desarrollo real:
-
-- 🏠 **Proyecto Inmobiliaria (PHP + MySQL)**  
-  Backend con conexión a base de datos, gestión de propiedades y estructura MVC.
-
-- 💎 **Tienda Joyas (Bootstrap + HTML/CSS)**  
-  Proyecto de diseño completo y estructuración de interfaz.
-
-- 🛒 **Tienda Online con Carrito (JavaScript + API)**  
-  Lógica de carrito, consumo de API y manipulación dinámica del DOM.
-
-- 🎮 **Mini juegos en JavaScript**  
-  Tres en raya, Trivial, Blackjack y juegos educativos infantiles.
-
-- ☕ **Sistema Cafetería / Inventario (Python – POO)**  
-  Gestión de productos aplicando clases, control de ficheros y lógica estructurada.
-
-- 🎲 **Biblioteca, Bingo y Carrera de Coches (Java – IntelliJ)**  
-  POO, excepciones y manejo de ficheros.
-
-- 🧮 **Gestor de tareas, Blackjack y herencia con coches (C# – VS Code)**  
-  Programación orientada a objetos y control estructurado.
+### 🏠 Proyecto Inmobiliaria (PHP + MySQL)  
+Backend con conexión a base de datos, gestión de propiedades y estructura MVC.  
+🔗 [Ver proyecto](https://github.com/GemaRJ/PHP/tree/main/PROYECTOS%20PERSONALES/inmobiliaria)
 
 ---
+
+### 💎 Tienda Joyas (Bootstrap + HTML/CSS)  
+Proyecto de diseño completo y estructuración de interfaz responsive.  
+🔗 [Ver proyecto](https://github.com/GemaRJ/Diseno_Interfaces/tree/main/PROYECTO%20PERSONALES/Tienda_Joyas_Bootstrap)
+
 ---
 
-### 📜 Certificados académicos (abril 2025)
+### 🛒 Tienda Online con Carrito (JavaScript + API)  
+Lógica de carrito, consumo de API y manipulación dinámica del DOM.  
+🔗 [Ver proyecto](https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Tienda_productos_carrito)
+
+---
+
+### 🎮 Mini Juegos en JavaScript  
+Tres en raya, Trivial, Blackjack y juegos educativos.  
+🔗 [Ver proyecto](https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Minijuegos)
+
+---
+
+### ☕ Sistema Cafetería / Inventario (Python – POO)  
+Gestión de productos aplicando clases y control de ficheros.  
+🔗 [Ver proyecto](https://github.com/GemaRJ/Python/tree/main/PROYECTOS%20PERSONALES)
+
+---
+
+### 🎲 Biblioteca, Bingo y Carrera de Coches (Java)  
+POO, excepciones y manejo de ficheros.  
+🔗 [Ver proyecto](https://github.com/GemaRJ/JAVA/tree/main/Proyecto%20Personales)
+
+---
+
+### 🧮 Gestor de Tareas y Proyectos POO (C#)  
+Programación orientada a objetos y control estructurado en entorno .NET.  
+🔗 [Ver proyecto](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp/tree/main/Proyectos%20Personales)
+
+---
+
+## 📜 Certificados académicos (abril 2025)
 
 - [Agile y Scrum | Advanced](https://api.eu.badgr.io/public/assertions/3U0W6fa2T2G9bbzoUSuHLw)  
 - [Inteligencia Artificial | Intermediate](https://api.eu.badgr.io/public/assertions/fYZrU0FcRGeqHgdIGSdBqw)  
-- [Project Portfolio Management | Advanced](https://api.eu.badgr.io/public/assertions/ECwbK40fR42Mxh93xKVEFg)  
-
-> Certificaciones obtenidas en el marco de mi formación académica.
+- [Project Portfolio Management | Advanced](https://api.eu.badgr.io/public/assertions/ECwbK40fR42Mxh93xKVEFg)
 
 ---
 
-### 📂 Repositorios destacados
+## 📂 Repositorios por tecnología
 
-🔹 **[Fundamentos-de-Programacion-Csharp](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)** — Prácticas académicas en C#.  
-🔹 **[JAVA](https://github.com/GemaRJ/JAVA)** — Ejercicios académicos de Java.  
-🔹 **[JavaScript](https://github.com/GemaRJ/JavaScript)** — Prácticas de JavaScript.  
-🔹 **[Angular](https://github.com/GemaRJ/Angular)** — Proyectos realizados en Angular (TypeScript / SPA).  
-🔹 **[React](https://github.com/GemaRJ/React)** — Proyectos realizados en React (JavaScript / SPA).  
-🔹 **[Vue](https://github.com/GemaRJ/Vue)** — Proyectos realizados en Vue.js (JavaScript / SPA).  
-🔹 **[Diseno_Interfaces](https://github.com/GemaRJ/Diseno_Interfaces)** — Proyectos de diseño de interfaces.  
-🔹 **[PHP](https://github.com/GemaRJ/PHP)** — Prácticas en PHP del ciclo DAW.  
-🔹 **[Python](https://github.com/GemaRJ/Python)** — Ejercicios y proyectos en Python y Django.  
-🔹 **[Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)** — HTML, CSS, JavaScript y XML.  
-🔹 **[Interfaces de diseño](https://github.com/GemaRJ/Diseno_Interfaces)** — Diseño de interfaces (UI / UX).  
-
+🔹 [Fundamentos-de-Programacion-Csharp](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)  
+🔹 [JAVA](https://github.com/GemaRJ/JAVA)  
+🔹 [JavaScript](https://github.com/GemaRJ/JavaScript)  
+🔹 [Angular](https://github.com/GemaRJ/Angular)  
+🔹 [React](https://github.com/GemaRJ/React)  
+🔹 [Vue](https://github.com/GemaRJ/Vue)  
+🔹 [PHP](https://github.com/GemaRJ/PHP)  
+🔹 [Python](https://github.com/GemaRJ/Python)  
+🔹 [Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)
 
 ---
 
