@@ -95,7 +95,7 @@ Programación orientada a objetos y control estructurado en entorno .NET.
 
 🎖️ Inteligencia Artificial | Intermediate
 
-🎖️ Project Portfolio Management | Advanced
+🎖️ Project Portfolio Management | Advanced.
 
 Certificaciones obtenidas en el marco de mi formación académica.
 
