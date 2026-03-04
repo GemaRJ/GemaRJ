@@ -93,13 +93,13 @@ Programación orientada a objetos y control estructurado en entorno .NET.
 ## 📜 Certificaciones académicas (abril 2025)
 
 - 🎖️ **Agile y Scrum | Advanced**  
-  🔗 https://api.eu.badgr.io/public/assertions/3U0W6fa2T2G9bbzoUSuHLw  
+  🔗 https://api.eu.badgr.io/public/assertions/fYZrU0FcRGeqHgdIGSdBqw
 
 - 🎖️ **Inteligencia Artificial | Intermediate**  
-  🔗 https://api.eu.badgr.io/public/assertions/fYZrU0FcRGeqHgdIGSdBqw  
+  🔗 https://api.eu.badgr.io/public/assertions/3U0W6fa2T2G9bbzoUSuHLw 
 
 - 🎖️ **Project Portfolio Management | Advanced**  
-  🔗 https://api.eu.badgr.io/public/assertions/ECwbK40fR42Mxh93xKVEFg  
+  🔗 https://api.eu.badgr.io/public/assertions/ECwbK40fR42Mxh93xKVEFg
 
 ---
 
