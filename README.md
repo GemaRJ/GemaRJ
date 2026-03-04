@@ -98,6 +98,8 @@ Programación orientada a objetos y control estructurado en entorno .NET.
 🎖️ Project Portfolio Management | Advanced.
 
 Certificaciones obtenidas en el marco de mi formación académica.
+🔗 Todas las certificaciones están verificadas y pueden consultarse en mi perfil de LinkedIn
+
 
 ---
 
