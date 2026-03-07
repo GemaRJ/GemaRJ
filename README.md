@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://github.com/GemaRJ/GemaRJ/blob/main/Portada.png?raw=true" alt="Estándarte de Gema Rodríguez Jorge">
-</p>
-
 # 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
-Soy **Gema Rodríguez Jorge**, desarrolladora en formación especializada en **Desarrollo de Aplicaciones Web (DAW)**.
+Mi nombre es **Gema**, y estoy especializada en **Desarrollo de Aplicaciones Web**.
 
 Aquí encontrarás proyectos académicos y personales donde aplico **frontend moderno, backend con conexión a base de datos, arquitectura cliente-servidor y programación orientada a objetos**.
 
