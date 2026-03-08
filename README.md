@@ -1,6 +1,6 @@
 ## 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
-**Mi nombre es Gema Rodríguez y estoy especializada en Desarrollo de Aplicaciones Web.
+**Mi nombre es Gema Rodríguez y estoy especializada en Desarrollo de Aplicaciones Web**
 
 Aquí encontrarás proyectos académicos y personales donde aplico:
 
