@@ -125,8 +125,28 @@ https://github.com/GemaRJ/PHP/tree/main/PROYECTOS%20PERSONALES/inmobiliaria
 
 Proyecto de diseño completo con ***interfaz responsiva y estructura de catálogo***.
 
-🔗 Ver proyecto
+#🔗 Ver proyecto
 https://github.com/GemaRJ/Diseno_Interfaces/tree/main/PROYECTO%20PERSONALES/Tienda_Joyas_Bootstrap
+
+---
+### 🛍️ Tienda Online
+
+***Angular + TypeScript+ API***
+
+Aplicación desarrollada con Angular aplicando arquitectura de frontend moderna:
+
+componentes reutilizables
+
+estructura modular
+
+gestión de catálogo de productos
+
+navegación entre vistas
+
+lógica de tienda online
+
+🔗 Ver proyecto
+https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/tienda
 
 ---
 
