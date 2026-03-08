@@ -77,7 +77,7 @@ https://react-eta-red.vercel.app/
 * control de ***ingresos y gastos***
 * ***transferencias entre cuentas***
 * ***retenciones de tarjeta pendientes***
-* conversor ***multidivisa EUR / USD / GBP***
+* conversor ***multidivisa EUR / USD / GBP con API REST***
 * precisión financiera a ***dos decimales***
 
 Este proyecto aplica ***lógica contable real trasladada a una aplicación web moderna.***
