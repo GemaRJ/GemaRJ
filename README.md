@@ -1,124 +1,252 @@
-# 🚀 ¡Bienvenid@ a mi perfil de GitHub!
+## 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
-Mi nombre es **Gema**, y estoy especializada en **Desarrollo de Aplicaciones Web**.
+**Mi nombre es Gema Rodríguez y estoy especializada en Desarrollo de Aplicaciones Web.
 
-Aquí encontrarás proyectos académicos y personales donde aplico **frontend moderno, backend con conexión a base de datos, arquitectura cliente-servidor y programación orientada a objetos**.
+Aquí encontrarás proyectos académicos y personales donde aplico:
 
-🎯 Objetivo: continuar mi formación en el **Grado en Ingeniería Informática** y seguir creciendo como desarrolladora **Fullstack**.
+desarrollo frontend moderno
 
-> 💡 Mi filosofía: **a problemas, soluciones**. Cada proyecto nace como una forma práctica de aplicar, reforzar y optimizar conocimientos.
+backend conectado a base de datos
 
----
+arquitectura cliente-servidor
 
-## 👩‍💻 Perfil técnico
+programación orientada a objetos
 
-- Desarrollo de aplicaciones web completas (frontend + backend).
-- Implementación de APIs REST.
-- Conexión y gestión de bases de datos relacionales.
-- Programación orientada a objetos.
-- Manejo de ficheros y control de excepciones.
-- Evolución de proyectos académicos hacia estructuras más profesionales.
+## 🎯 Objetivo: continuar mi formación en el Grado en Ingeniería Informática y seguir creciendo como desarrolladora Full-Stack.
 
----
+**💡 Mi filosofía:
+A problemas, soluciones.
+Cada proyecto nace como una forma práctica de aplicar, reforzar y optimizar conocimientos.**
 
-# 🚀 Portfolio Fullstack (Repositorio Principal Destacado)
+# 👩‍💻 Perfil técnico
 
-## ⭐ [portfolio-fullstack-projects](https://github.com/GemaRJ/portfolio-fullstack-projects)
+Desarrollo de aplicaciones web completas (Frontend + Backend)
 
-Repositorio dedicado exclusivamente a proyectos con **arquitectura profesional**, simulando entornos reales de desarrollo.
+Implementación de APIs REST
+
+Conexión y gestión de bases de datos relacionales
+
+Programación Orientada a Objetos
+
+Manejo de ficheros y control de excepciones
+
+Evolución de proyectos académicos hacia estructuras profesionales
+
+# 🚀 Proyectos desplegados (Vercel)
+
+Repositorio de despliegues:
+
+🔗 https://github.com/GemaRJ/Despliegues-VERCEL
+
+Aplicaciones activas:
+
+🌐 https://react-eta-red.vercel.app/
+
+Estos proyectos muestran el ciclo completo de desarrollo moderno:
+
+Desarrollo → Build → Deploy → Producción
+
+Utilizando React + Vercel con despliegue continuo.
+
+**🏦 Proyecto destacado**
+360° Personal & Financial Manager
+
+Aplicación web de gestión financiera personal con lógica bancaria real.
+
+** 📂 Repositorio
+https://github.com/GemaRJ/React/tree/main/banco **
+
+🌐 Demo en vivo
+https://react-eta-red.vercel.app/
+
+Tecnologías
+
+React + TypeScript
+
+Bootstrap
+
+Supabase
+
+SweetAlert2
+
+Deploy en Vercel
+
+Funcionalidades
+
+gestión de cuentas bancarias
+
+control de ingresos y gastos
+
+transferencias entre cuentas
+
+retenciones de tarjeta pendientes
+
+conversor multidivisa EUR / USD / GBP
+
+precisión financiera a dos decimales
+
+Este proyecto aplica lógica contable real trasladada a una aplicación web moderna.
+
+## 💼 Portafolio Full-Stack
+
+⭐ Repositorio principal
+
+https://github.com/GemaRJ/portafolio-proyectos-fullstack
+
+Repositorio dedicado a proyectos con arquitectura profesional simulando entornos reales de desarrollo.
 
 Incluye aplicaciones desarrolladas con:
 
-- Angular + TypeScript
-- Node.js + Express
-- MySQL
-- Separación frontend / backend
-- Autenticación
-- CRUD completos
-- Organización modular
+Angular + TypeScript
 
-Este repositorio representa mi evolución hacia un perfil **junior con enfoque profesional**.
+Node.js + Express
 
----
+MySQL
 
-## 🛠 Stack tecnológico
+Autenticación
 
-### Lenguajes de programación
-Java · C# · Python · PHP · JavaScript · TypeScript  
+CRUD completos
 
-### Frameworks y entornos
-Angular · React · Vue · Next.js · Node.js · Laravel · Django  
+Separación Frontend / Backend
 
-### Bases de datos
-MySQL · phpMyAdmin · DBeaver  
+Organización modular
 
----
+Este repositorio representa mi evolución hacia un perfil Junior Full-Stack con enfoque profesional.
 
-## 🌟 Proyectos aplicados (repositorios por lenguaje)
+**🌟 Proyectos aplicados**
+**🏠 Proyecto Inmobiliaria**
 
-### 🏠 Proyecto Inmobiliaria (PHP + MySQL)  
-Backend con conexión a base de datos, gestión de propiedades y estructura MVC.  
-🔗 [Ver proyecto](https://github.com/GemaRJ/PHP/tree/main/PROYECTOS%20PERSONALES/inmobiliaria)
+PHP + MySQL
 
-### 💎 Tienda Joyas (Bootstrap + HTML/CSS)  
-Proyecto de diseño completo y estructuración de interfaz responsive.  
-🔗 [Ver proyecto](https://github.com/GemaRJ/Diseno_Interfaces/tree/main/PROYECTO%20PERSONALES/Tienda_Joyas_Bootstrap)
+Backend con conexión a base de datos, gestión de propiedades y estructura MVC.
 
-### 🛒 Tienda Online con Carrito (JavaScript + API)  
-Lógica de carrito, consumo de API y manipulación dinámica del DOM.  
-🔗 [Ver proyecto](https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Tienda_productos_carrito)
+🔗 Ver proyecto
 
-### 🎮 Mini Juegos en JavaScript  
-Tres en raya, Trivial, Blackjack y juegos educativos.  
-🔗 [Ver proyecto](https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Minijuegos)
+**💎 Tienda Joyas**
 
-### ☕ Sistema Cafetería / Inventario (Python – POO)  
-Gestión de productos aplicando clases y control de ficheros.  
-🔗 [Ver proyecto](https://github.com/GemaRJ/Python/tree/main/PROYECTOS%20PERSONALES)
+Bootstrap + HTML/CSS
 
-### 🎲 Biblioteca, Bingo y Carrera de Coches (Java)  
-POO, excepciones y manejo de ficheros.  
-🔗 [Ver proyecto](https://github.com/GemaRJ/JAVA/tree/main/Proyecto%20Personales)
+Proyecto de diseño completo con interfaz responsiva y estructura de catálogo.
 
-### 🧮 Gestor de Tareas y Proyectos POO (C#)  
-Programación orientada a objetos y control estructurado en entorno .NET.  
-🔗 [Ver proyecto](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp/tree/main/Proyectos%20Personales)
+🔗 Ver proyecto
 
----
-📜 Certificaciones académicas (abril 2025)
+**🛒 Tienda Online con Carrito**
 
-🎖️ Agile y Scrum | Advanced
+JavaScript + API
 
-🎖️ Inteligencia Artificial | Intermediate
+Aplicación con:
 
-🎖️ Project Portfolio Management | Advanced.
+lógica de carrito
 
-Certificaciones obtenidas en el marco de mi formación académica.
-🔗 Todas las certificaciones están verificadas y pueden consultarse en mi perfil de LinkedIn
+consumo de API
 
+manipulación dinámica del DOM
 
----
+🔗 Ver proyecto
 
-## 📂 Repositorios por tecnología
+**🎮 Mini Juegos en JavaScript**
 
-🔹 [Fundamentos-de-Programacion-Csharp](https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp)  
-🔹 [JAVA](https://github.com/GemaRJ/JAVA)  
-🔹 [JavaScript](https://github.com/GemaRJ/JavaScript)  
-🔹 [Angular](https://github.com/GemaRJ/Angular)  
-🔹 [React](https://github.com/GemaRJ/React)  
-🔹 [Vue](https://github.com/GemaRJ/Vue)  
-🔹 [PHP](https://github.com/GemaRJ/PHP)  
-🔹 [Python](https://github.com/GemaRJ/Python)  
-🔹 [Lenguaje-de-Marcas](https://github.com/GemaRJ/Lenguaje-de-Marcas)
+Incluye:
 
----
+Tres en raya
+
+Trivial
+
+Blackjack
+
+Juegos educativos
+
+🔗 Ver proyecto
+
+**☕ Sistema Cafetería / Inventario**
+
+Python – Programación Orientada a Objetos
+
+Gestión de productos aplicando:
+
+clases
+
+persistencia en ficheros
+
+control estructurado
+
+🔗 Ver proyecto
+
+**🎲 Biblioteca, Bingo y Carrera de Coches**
+
+Java
+
+Aplicación de conceptos:
+
+Programación orientada a objetos
+
+Excepciones
+
+Manejo de ficheros
+
+🔗 Ver proyecto
+
+**🧮 Gestor de Tareas y Proyectos**
+
+C# / .NET
+
+Aplicación de gestión basada en:
+
+programación orientada a objetos
+
+control estructurado
+
+lógica de gestión de proyectos
+
+🔗 Ver proyecto
+
+## 🛠 Pila tecnológica
+
+**Lenguajes de programación**
+
+Java · C# · Python · PHP · JavaScript · TypeScript
+
+**Frameworks y entornos**
+
+Angular · React · Vue · Next.js
+Node.js · Laravel · Django
+
+**Bases de datos**
+
+MySQL
+phpMyAdmin
+DBeaver
+
+📂 Repositorios por tecnología
+
+🔹 Fundamentos-de-Programacion-Csharp
+🔹 JAVA
+🔹 JavaScript
+🔹 Angular
+🔹 React
+🔹 Vue
+🔹 PHP
+🔹 Python
+🔹 Lenguaje-de-Marcas
+
+## 📜 Certificaciones académicas (Abril 2025)
+
+🎖️ Agile y Scrum — Avanzado
+
+🎖️ Inteligencia Artificial — Intermedio
+
+🎖️ Gestión de Portafolio de Proyectos — Avanzado
+
+Certificaciones obtenidas dentro de mi formación académica.
+
+🔗 Todas pueden consultarse en mi perfil de LinkedIn.
 
 ## 📬 Contacto
 
-- 📧 [gema.rj87@gmail.com](mailto:gema.rj87@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gema-rj)  
-- 🐙 [GitHub](https://github.com/GemaRJ)
+📧 gema.rj87@gmail.com
 
----
+💼 LinkedIn
 
-✨ Este perfil refleja evolución técnica constante, práctica aplicada y transición progresiva hacia un entorno de desarrollo profesional Fullstack.
+🐙 GitHub
+
+✨ Este perfil refleja evolución técnica constante, práctica aplicada y transición progresiva hacia un entorno de desarrollo profesional Full-Stack.
