@@ -100,7 +100,8 @@ Incluye aplicaciones desarrolladas con:
 * Autenticación
 * CRUD completos
 * Separación ***Frontend / Backend***
-* Organización ***modular***
+* Estructura basada en ***Modelo – Vista – Controlador (MVC)***
+
 
 Este repositorio representa mi evolución hacia un ***perfil Junior Full-Stack con enfoque profesional***.
 
@@ -135,15 +136,15 @@ https://github.com/GemaRJ/Diseno_Interfaces/tree/main/PROYECTO%20PERSONALES/Tien
 
 Aplicación desarrollada con Angular aplicando arquitectura de frontend moderna:
 
-componentes reutilizables
+ - Componentes reutilizables
 
-estructura modular
+- Estructura modular
 
-gestión de catálogo de productos
+- Gestión de catálogo de productos
 
-navegación entre vistas
+- Navegación entre vistas
 
-lógica de tienda online
+- Lógica de tienda online
 
 🔗 Ver proyecto
 https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/tienda
@@ -156,9 +157,9 @@ https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/tienda
 
 Aplicación con:
 
-* lógica de carrito
-* consumo de API
-* manipulación dinámica del DOM
+* Lógica de carrito
+* Consumo de API
+* Manipulación dinámica del DOM
 
 🔗 Ver proyecto
 https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Tienda_productos_carrito
@@ -185,9 +186,9 @@ https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Minijuegos
 
 Gestión de productos aplicando:
 
-* clases
-* persistencia en ficheros
-* control estructurado
+* Clases
+* Persistencia en ficheros
+* Control estructurado
 
 🔗 Ver proyecto
 https://github.com/GemaRJ/Python/tree/main/PROYECTOS%20PERSONALES/Cafeter%C3%ADa
@@ -215,45 +216,74 @@ https://github.com/GemaRJ/JAVA/tree/main/Proyecto%20Personales
 
 Aplicación de gestión basada en:
 
-* programación orientada a objetos
-* control estructurado
-* lógica de gestión de proyectos
+* Programación orientada a objetos
+* Control estructurado
+* Lógica de gestión de proyectos
 
 🔗 Ver proyecto
 https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp/tree/main/Proyectos%20Personales/Gestor%20de%20Tareas
 
 ---
+### 🛠️ Pila tecnológica
 
-## 🛠 Pila tecnológica
+***🏗️ Arquitectura y APIs***
 
-### Lenguajes de programación
+Patrones de Diseño: Dominio de arquitectura MVC (Modelo-Vista-Controlador) para aplicaciones escalables.
 
-Java · C# · Python · PHP · JavaScript · TypeScript
+Interfaces de Programación: Diseño e implementación de APIs REST seguras y eficientes.
 
-### Frameworks y entornos
+Seguridad Técnica: Aplicación de tickets de seguridad y protocolos de validación en el intercambio de datos.
 
-Angular · React · Vue · Next.js
-Node.js · Laravel · Django
+***💻 Lenguajes de programación***
 
-### Bases de datos
+Frontend & Scripting: JavaScript (ES6+), TypeScript.
 
-MySQL
-phpMyAdmin
-DBeaver
+Backend: Java, C#, PHP, Python.
+
+***🚀 Frameworks y Entornos***
+
+Frontend: React, Angular, Vue, Next.js.
+
+Backend: Node.js (Express), Laravel, Django.
+
+Estilos: CSS3 nativo (enfoque en personalización y rendimiento), HTML5, Bootstrap.
+
+## 📊 Bases de Datos y Herramientas
+
+Gestión de Datos: MySQL, Supabase, PostgreSQL (DBeaver, phpMyAdmin).
+
+Ecosistema: Git, GitHub, Vercel (CI/CD), WordPress.
 
 ---
 
 ## 📂 Repositorios por tecnología
 
-🔹 Fundamentos-de-Programacion-Csharp
-🔹 JAVA
-🔹 JavaScript
-🔹 Angular
-🔹 React
-🔹 Vue
-🔹 PHP
-🔹 Python
-🔹 Lenguaje-de-Marcas
+🔹 **Fundamentos de Programación C#**  
+https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp  
+
+🔹 **JAVA**  
+https://github.com/GemaRJ/JAVA  
+
+🔹 **JavaScript**  
+https://github.com/GemaRJ/JavaScript  
+
+🔹 **Angular**  
+https://github.com/GemaRJ/Angular  
+
+🔹 **React**  
+https://github.com/GemaRJ/React  
+
+🔹 **Vue**  
+https://github.com/GemaRJ/Vue  
+
+🔹 **PHP**  
+https://github.com/GemaRJ/PHP  
+
+🔹 **Python**  
+https://github.com/GemaRJ/Python  
+
+🔹 **Lenguaje de Marcas**  
+https://github.com/GemaRJ/Lenguaje-de-Marcas
 
 ---
 
