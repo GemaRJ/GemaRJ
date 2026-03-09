@@ -255,34 +255,37 @@ Ecosistema: Git, GitHub, Vercel (CI/CD), WordPress.
 
 ---
 
-## 📂 Repositorios por tecnología
+📂 Repositorios por tecnología
 
-🔹 **Fundamentos de Programación C#**  
-https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp  
+🔹 Despliegues Vercel
+https://github.com/GemaRJ/Despliegues-VERCEL
 
-🔹 **JAVA**  
-https://github.com/GemaRJ/JAVA  
-
-🔹 **JavaScript**  
-https://github.com/GemaRJ/JavaScript  
-
-🔹 **Angular**  
-https://github.com/GemaRJ/Angular  
-
-🔹 **React**  
-https://github.com/GemaRJ/React  
-
-🔹 **Vue**  
-https://github.com/GemaRJ/Vue  
-
-🔹 **PHP**  
-https://github.com/GemaRJ/PHP  
-
-🔹 **Python**  
-https://github.com/GemaRJ/Python  
-
-🔹 **Lenguaje de Marcas**  
+🔹 Lenguaje de Marcas
 https://github.com/GemaRJ/Lenguaje-de-Marcas
+
+🔹 Fundamentos de Programación C#
+https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp
+
+🔹 JAVA
+https://github.com/GemaRJ/JAVA
+
+🔹 JavaScript
+https://github.com/GemaRJ/JavaScript
+
+🔹 Angular
+https://github.com/GemaRJ/Angular
+
+🔹 React
+https://github.com/GemaRJ/React
+
+🔹 Vue
+https://github.com/GemaRJ/Vue
+
+🔹 PHP
+https://github.com/GemaRJ/PHP
+
+🔹 Python
+https://github.com/GemaRJ/Python
 
 ---
 
