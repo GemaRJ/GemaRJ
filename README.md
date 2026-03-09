@@ -49,6 +49,12 @@ https://react-eta-red.vercel.app/
 | DNI | 12345678X |
 | Contraseña | 1234 |
 
+## 📸 Galería del Proyecto
+
+**[Ver fotos del sistema](https://github.com/GemaRJ/React/tree/main/Im%C3%A1genes%20Demo%20Banco)**
+
+--- 
+
 📂 **Repositorio**  
 https://github.com/GemaRJ/React/tree/main/banco
 
