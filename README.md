@@ -127,12 +127,15 @@ Para probar las diferentes funcionalidades y la gestión de permisos según el r
 
 ---
 
-### 💎 Tienda Joyas  
-**Bootstrap + HTML/CSS**
+# 💎 Tienda de Joyas - Luxury E-commerce Design
 
-Proyecto de diseño completo con interfaz responsiva y estructura de catálogo.
+Este proyecto es una propuesta de diseño para una tienda de joyería de alta gama, centrada en ofrecer una experiencia de usuario (UX) elegante y una interfaz (UI) visualmente impactante. Se ha puesto especial énfasis en la arquitectura de la información y en la adaptabilidad del catálogo.
 
-🔗 https://github.com/GemaRJ/Diseno_Interfaces/tree/main/PROYECTO%20PERSONALES/Tienda_Joyas_Bootstrap
+---
+
+## 📸 Galería del Proyecto
+
+**[Ver capturas del diseño responsivo](https://github.com/GemaRJ/Diseno_Interfaces/tree/main/PROYECTO%20PERSONALES/Tienda_Joyas_Bootstrap/Im%C3%A1genes%20Demo%20Joyas)**
 
 ---
 
@@ -148,6 +151,12 @@ Aplicación desarrollada con Angular aplicando arquitectura de frontend moderna:
 - lógica de tienda online  
 
 🔗 https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/tienda
+
+## 📸 Galería del Proyecto
+
+**[Ver capturas de la aplicación](https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/Im%C3%A1genes%20Demo%20Tienda)**
+
+---
 
 ---
 
