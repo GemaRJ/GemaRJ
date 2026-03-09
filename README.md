@@ -33,136 +33,113 @@ Cada proyecto nace como una forma práctica de ***aplicar, reforzar y optimizar 
 
 ---
 
-## 🚀 Proyectos desplegados (Vercel)
-
-Repositorio de despliegues:
-
-🔗 https://github.com/GemaRJ/Despliegues-VERCEL
-
-Aplicaciones activas:
-
-🌐 https://react-eta-red.vercel.app/
-
-Estos proyectos muestran el ***ciclo completo de desarrollo moderno***:
-
-***Desarrollo → Build → Deploy → Producción***
-
-Utilizando ***React + Vercel con despliegue continuo***.
-
----
-
 ## 🏦 Proyecto destacado
 
 ### 360° Personal & Financial Manager
 
-Aplicación web de ***gestión financiera personal con lógica bancaria real***.
+Aplicación web de **gestión financiera personal con lógica bancaria real**.
 
-***📂 Repositorio***
-https://github.com/GemaRJ/React/tree/main/banco
-
-***🌐 Demo en vivo***
+🌐 **Demo en vivo**  
 https://react-eta-red.vercel.app/
+
+### 🔐 Credenciales de prueba
+
+| Campo | Valor |
+|------|------|
+| DNI | 12345678X |
+| Contraseña | 1234 |
+
+📂 **Repositorio**  
+https://github.com/GemaRJ/React/tree/main/banco
 
 ### Tecnologías
 
-* React + TypeScript
-* Bootstrap
-* Supabase
-* SweetAlert2
-* Deploy en Vercel
+React + TypeScript  
+Bootstrap  
+Supabase  
+SweetAlert2  
+Deploy en Vercel  
 
 ### Funcionalidades
 
-* gestión de ***cuentas bancarias***
-* control de ***ingresos y gastos***
-* ***transferencias entre cuentas***
-* ***retenciones de tarjeta pendientes***
-* conversor ***multidivisa EUR / USD / GBP con API REST***
-* precisión financiera a ***dos decimales***
+- gestión de cuentas bancarias  
+- control de ingresos y gastos  
+- transferencias entre cuentas  
+- retenciones de tarjeta pendientes  
+- conversor multidivisa **EUR / USD / GBP con API REST**  
+- precisión financiera a **dos decimales**
 
-Este proyecto aplica ***lógica contable real trasladada a una aplicación web moderna.***
+Este proyecto aplica **lógica contable real trasladada a una aplicación web moderna**.
 
 ---
 
 ## 💼 Portafolio Full-Stack
 
-⭐ ***Repositorio principal***
+⭐ **Repositorio principal**
 
 https://github.com/GemaRJ/portafolio-proyectos-fullstack
 
-Repositorio dedicado a proyectos con ***arquitectura profesional simulando entornos reales de desarrollo***.
+Repositorio dedicado a proyectos con **arquitectura profesional simulando entornos reales de desarrollo**.
 
 Incluye aplicaciones desarrolladas con:
 
-* Angular + TypeScript
-* Node.js + Express
-* MySQL
-* Autenticación
-* CRUD completos
-* Separación ***Frontend / Backend***
-* Estructura basada en ***Modelo – Vista – Controlador (MVC)***
+- Angular + TypeScript
+- Node.js + Express
+- MySQL
+- Autenticación
+- CRUD completos
+- Separación **Frontend / Backend**
+- Estructura basada en **Modelo – Vista – Controlador (MVC)**
 
-
-Este repositorio representa mi evolución hacia un ***perfil Junior Full-Stack con enfoque profesional***.
+Este repositorio representa mi evolución hacia un **perfil Junior Full-Stack con enfoque profesional**.
 
 ---
 
 ## 🌟 Proyectos aplicados
 
-### 🏠 Proyecto Inmobiliaria
-
-***PHP + MySQL***
+### 🏠 Proyecto Inmobiliaria  
+**PHP + MySQL**
 
 Backend con conexión a base de datos, gestión de propiedades y estructura MVC.
 
-🔗 Ver proyecto
-https://github.com/GemaRJ/PHP/tree/main/PROYECTOS%20PERSONALES/inmobiliaria
+🔗 https://github.com/GemaRJ/PHP/tree/main/PROYECTOS%20PERSONALES/inmobiliaria
 
 ---
 
-### 💎 Tienda Joyas
+### 💎 Tienda Joyas  
+**Bootstrap + HTML/CSS**
 
-***Bootstrap + HTML/CSS***
+Proyecto de diseño completo con interfaz responsiva y estructura de catálogo.
 
-Proyecto de diseño completo con ***interfaz responsiva y estructura de catálogo***.
-
-#🔗 Ver proyecto
-https://github.com/GemaRJ/Diseno_Interfaces/tree/main/PROYECTO%20PERSONALES/Tienda_Joyas_Bootstrap
+🔗 https://github.com/GemaRJ/Diseno_Interfaces/tree/main/PROYECTO%20PERSONALES/Tienda_Joyas_Bootstrap
 
 ---
-### 🛍️ Tienda Online
 
-***Angular + TypeScript+ API***
+### 🛍️ Tienda Online  
+**Angular + TypeScript + API**
 
 Aplicación desarrollada con Angular aplicando arquitectura de frontend moderna:
 
- - Componentes reutilizables
+- componentes reutilizables  
+- estructura modular  
+- gestión de catálogo de productos  
+- navegación entre vistas  
+- lógica de tienda online  
 
-- Estructura modular
-
-- Gestión de catálogo de productos
-
-- Navegación entre vistas
-
-- Lógica de tienda online
-
-🔗 Ver proyecto
-https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/tienda
+🔗 https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/tienda
 
 ---
 
-### 🛒 Tienda Online con Carrito
-
-***JavaScript + API***
+### 🛒 Tienda Online con Carrito  
+**JavaScript + API**
 
 Aplicación con:
 
-* Lógica de carrito
-* Consumo de API
-* Manipulación dinámica del DOM
+- lógica de carrito  
+- consumo de API  
+- manipulación dinámica del DOM  
 
-🔗 Ver proyecto
-https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Tienda_productos_carrito
+🔗 https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Tienda_productos_carrito
 
 ---
 
@@ -170,59 +147,51 @@ https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Tienda_pro
 
 Incluye:
 
-* Tres en raya
-* Trivial
-* Blackjack
-* Juegos educativos
+- Tres en raya  
+- Trivial  
+- Veintiuna  
+- Juegos educativos  
 
-🔗 Ver proyecto
-https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Minijuegos
+🔗 https://github.com/GemaRJ/JavaScript/tree/main/PROYECTOS%20PERSONALES/Minijuegos
 
 ---
 
-### ☕ Sistema Cafetería / Inventario
-
-***Python – Programación Orientada a Objetos***
+### ☕ Sistema Cafetería / Inventario  
+**Python – Programación Orientada a Objetos**
 
 Gestión de productos aplicando:
 
-* Clases
-* Persistencia en ficheros
-* Control estructurado
+- clases  
+- persistencia en ficheros  
+- control estructurado  
 
-🔗 Ver proyecto
-https://github.com/GemaRJ/Python/tree/main/PROYECTOS%20PERSONALES/Cafeter%C3%ADa
+🔗 https://github.com/GemaRJ/Python/tree/main/PROYECTOS%20PERSONALES/Cafeter%C3%ADa
 
 ---
 
-### 🎲 Biblioteca, Bingo y Carrera de Coches
-
-***Java***
+### 🎲 Biblioteca, Bingo y Carrera de Coches  
+**Java**
 
 Aplicación de conceptos:
 
-* Programación orientada a objetos
-* Excepciones
-* Manejo de ficheros
+- programación orientada a objetos  
+- excepciones  
+- manejo de ficheros  
 
-🔗 Ver proyecto
-https://github.com/GemaRJ/JAVA/tree/main/Proyecto%20Personales
+🔗 https://github.com/GemaRJ/JAVA/tree/main/Proyecto%20Personales
 
 ---
 
-### 🧮 Gestor de Tareas y Proyectos
-
-***C# / .NET***
+### 🧮 Gestor de Tareas y Proyectos  
+**C# / .NET**
 
 Aplicación de gestión basada en:
 
-* Programación orientada a objetos
-* Control estructurado
-* Lógica de gestión de proyectos
+- programación orientada a objetos  
+- control estructurado  
+- lógica de gestión de proyectos  
 
-🔗 Ver proyecto
-https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp/tree/main/Proyectos%20Personales/Gestor%20de%20Tareas
-
+🔗 https://github.com/GemaRJ/Fundamentos-de-Programacion-Csharp/tree/main/Proyectos%20Personales/Gestor%20de%20Tareas
 ---
 ### 🛠️ Pila tecnológica
 
