@@ -103,12 +103,27 @@ Este repositorio representa mi evolución hacia un **perfil Junior Full-Stack co
 
 ## 🌟 Proyectos aplicados
 
-### 🏠 Proyecto Inmobiliaria  
-**PHP + MySQL**
+# 🏠 Sistema de Gestión Inmobiliaria (MVC)
 
-Backend con conexión a base de datos, gestión de propiedades y estructura MVC.
+Este proyecto es una plataforma de gestión inmobiliaria desarrollada en **PHP y MySQL**, estructurada bajo el patrón **Modelo-Vista-Controlador (MVC)**. Permite la administración integral de propiedades y usuarios mediante un sistema de permisos basado en roles.
 
-🔗 https://github.com/GemaRJ/PHP/tree/main/PROYECTOS%20PERSONALES/inmobiliaria
+---
+
+## 📸 Galería del Proyecto
+
+**[Ver fotos del sistema](https://github.com/GemaRJ/PHP/tree/main/PROYECTOS%20PERSONALES/Im%C3%A1genes%20Demo%20Inmobiliria)**
+
+---
+
+## 🔐 Credenciales de Acceso (Demo)
+
+Para probar las diferentes funcionalidades y la gestión de permisos según el rol, puedes utilizar los siguientes usuarios:
+
+| Perfil | Email | Contraseña | Rol |
+| :--- | :--- | :--- | :--- |
+| **GEMA** | ADMIN@GEMA.COM | 1234 | Administrador |
+| **ENZO** | ENZO@ENZO.COM | 1234  | Vendedor |
+| **CARLOS** | CARLOS@CARLOS.COM | 1234  | Comprador |
 
 ---
 
