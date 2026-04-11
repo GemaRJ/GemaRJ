@@ -139,23 +139,46 @@ Este proyecto es una propuesta de diseño para una tienda de joyería de alta ga
 
 ---
 
-### 🛍️ Tienda Online  
-**Angular + TypeScript + API**
+### 🛍️ Angular Shop – SPA E-commerce  
+**Angular + TypeScript + API REST**
 
-Aplicación desarrollada con Angular aplicando arquitectura de frontend moderna:
+Aplicación SPA completa que simula una tienda online, desarrollada con Angular siguiendo arquitectura moderna basada en componentes y servicios.
 
-- componentes reutilizables  
-- estructura modular  
-- gestión de catálogo de productos  
-- navegación entre vistas  
-- lógica de tienda online  
+🌐 **Demo en producción**  
+👉 https://angular-one-tau-51.vercel.app/productos  
 
-🔗 https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/tienda
+📂 **Repositorio**  
+👉 https://github.com/GemaRJ/Angular/tree/main/tienda  
 
-## 📸 Galería del Proyecto
+---
 
-**[Ver capturas de la aplicación](https://github.com/GemaRJ/Angular/tree/main/Proyectos%20Personales/Im%C3%A1genes%20Demo%20Tienda)**
+### 🚀 Funcionalidades principales
 
+- catálogo de productos dinámico desde API externa  
+- filtros en tiempo real (categoría, marca, precio)  
+- detalle de producto desplegable  
+- carrito de compra con estado compartido (Signals)  
+- cálculo automático de totales  
+- formulario de contacto con validación  
+- historial persistente mediante localStorage  
+- navegación SPA sin recargas  
+- diseño responsive  
+
+---
+
+### 🧠 Conceptos aplicados
+
+- arquitectura basada en componentes  
+- servicios para gestión de estado  
+- comunicación entre componentes  
+- consumo de APIs REST  
+- formularios y validación  
+- persistencia en cliente  
+- despliegue en producción (Vercel)  
+
+---
+
+💡 Este proyecto representa la transición de ejercicios académicos a una aplicación frontend completa, simulando un entorno real de desarrollo.
 ---
 
 ---
