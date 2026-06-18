@@ -13,12 +13,11 @@ Aquí encontrarás proyectos académicos y personales donde aplico:
 
 ## 🎯 Objetivo
 
-Continuar mi formación en el ***Grado en Ingeniería Informática*** y seguir creciendo como ***desarrolladora Full-Stack***.
+Seguir desarrollándome como desarrolladora Full-Stack, aplicando los conocimientos adquiridos en Desarrollo de Aplicaciones Web (DAW) y ampliando mi formación con el Grado en Ingeniería Informática, que comenzaré en septiembre de 2026.
 
-***💡 Mi filosofía***
+## 💡 Mi filosofía
 
-*A problemas, soluciones.*
-Cada proyecto nace como una forma práctica de ***aplicar, reforzar y optimizar conocimientos.***
+A problemas, soluciones. Cada proyecto nace como una oportunidad para aprender, aplicar conocimientos y construir soluciones útiles, eficientes y escalables. Creo en la mejora continua, el aprendizaje constante y el desarrollo práctico como motor de crecimiento profesional.
 
 ---
 
