@@ -1,6 +1,13 @@
 # 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
-***Mi nombre es Gema Rodríguez y estoy especializada en Desarrollo de Aplicaciones Web***
+**Hola, soy Gema Rodríguez**
+**Desarrolladora Full Stack Junior**
+
+He finalizado el Grado Superior de Desarrollo de Aplicaciones Web y actualmente continúo mi formación en el Grado en Ingeniería Informática, orientando mi perfil profesional hacia el desarrollo Full Stack Junior.
+
+Vengo de una trayectoria de 18 años en el entorno bancario, donde he trabajado en soporte técnico y funcional, resolución de incidencias, gestión responsable de información sensible y apoyo al equipo. Esta experiencia me aporta una visión práctica, analítica y orientada a soluciones.
+
+Actualmente desarrollo proyectos web combinando frontend, backend y e-commerce, con foco en crear soluciones funcionales, responsive y orientadas a usuario.
 
 Aquí encontrarás proyectos académicos y personales donde aplico:
 
@@ -19,6 +26,11 @@ Seguir desarrollándome como desarrolladora Full-Stack, aplicando los conocimien
 
 A problemas, soluciones. Cada proyecto nace como una oportunidad para aprender, aplicar conocimientos y construir soluciones útiles, eficientes y escalables. Creo en la mejora continua, el aprendizaje constante y el desarrollo práctico como motor de crecimiento profesional.
 
+---
+
+## 🧭 Mi enfoque
+
+Me gusta entender los proyectos de forma global. Mi experiencia combinando desarrollo web, soporte funcional, trabajo en equipo y conocimiento de negocio me permite aportar una visión 360º, conectando la parte técnica con el flujo de datos, la experiencia de usuario y las necesidades reales del producto o negocio.
 ---
 
 ## 👩‍💻 Perfil técnico
@@ -249,31 +261,37 @@ Aplicación de gestión basada en:
 
 ***🏗️ Arquitectura y APIs***
 
-Patrones de Diseño: Dominio de arquitectura MVC (Modelo-Vista-Controlador) para aplicaciones escalables.
-
-Interfaces de Programación: Diseño e implementación de APIs REST seguras y eficientes.
-
-Seguridad Técnica: Aplicación de tickets de seguridad y protocolos de validación en el intercambio de datos.
+- Aplicación de arquitectura MVC en proyectos web.
+- Desarrollo de funcionalidades CRUD.
+- Consumo e integración de APIs REST.
+- Separación entre frontend, backend y capa de datos.
+- Gestión de formularios, validaciones y lógica de negocio.
+- Trabajo con datos estructurados en formato JSON.
 
 ***💻 Lenguajes de programación***
 
 Frontend & Scripting: JavaScript (ES6+), TypeScript.
 
-Backend: Java, C#, PHP, Python.
+Backend: PHP, Python.
+
+Conocimientos adicionales: Java, C#.
 
 ***🚀 Frameworks y Entornos***
 
 Frontend: React, Angular, Vue, Next.js.
 
-Backend: Node.js (Express), Laravel, Django.
+Backend: Django, Node.js, Express.
 
-Estilos: CSS3 nativo (enfoque en personalización y rendimiento), HTML5, Bootstrap.
+CMS & e-commerce: WordPress, WooCommerce, Shopify, Liquid.
+
+Estilos: HTML5, CSS3, Bootstrap, Tailwind, diseño responsive.
 
 ## 📊 Bases de Datos y Herramientas
 
-Gestión de Datos: MySQL, Supabase, PostgreSQL (DBeaver, phpMyAdmin).
-
-Ecosistema: Git, GitHub, Vercel (CI/CD), WordPress.
+- Bases de datos: MySQL, Supabase.
+- Herramientas de gestión: phpMyAdmin, DBeaver.
+- Control de versiones y despliegue: Git, GitHub, Vercel.
+- Análisis y visualización de datos: Power BI, Looker Studio.
 
 ---
 
@@ -311,13 +329,17 @@ https://github.com/GemaRJ/Python
 
 ---
 
-## 📜 Certificaciones académicas (Abril 2025)
+## 📜 Certificaciones académicas
 
 🎖️ ***Agile y Scrum — Avanzado***
 
 🎖️ ***Inteligencia Artificial — Intermedio***
 
 🎖️ ***Gestión de Portafolio de Proyectos — Avanzado***
+
+🎖️ ***Power BI — Santander Open Academy***
+
+🎖️ ***Desarrollo con IA: Programa con Agentes — BIG School***
 
 Certificaciones obtenidas dentro de mi formación académica.
 
@@ -336,6 +358,5 @@ https://www.linkedin.com/in/gema-rj/
 https://github.com/GemaRJ
 
 ---
-
-✨ Este perfil refleja ***evolución técnica constante, práctica aplicada y transición progresiva hacia un entorno de desarrollo profesional Full-Stack.***
+✨ Este perfil refleja mi evolución técnica, **mi experiencia profesional en entornos críticos y mi transición hacia un perfil Full Stack Junior con visión práctica, funcional y orientada a negocio**
 
