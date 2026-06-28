@@ -1,6 +1,7 @@
 # 🚀 ¡Bienvenid@ a mi perfil de GitHub!
 
 **Hola, soy Gema Rodríguez**
+
 **Desarrolladora Full Stack Junior**
 
 He finalizado el Grado Superior de Desarrollo de Aplicaciones Web y actualmente continúo mi formación en el Grado en Ingeniería Informática, orientando mi perfil profesional hacia el desarrollo Full Stack Junior.
